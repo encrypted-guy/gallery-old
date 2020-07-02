@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+main {
+    width: 100%;
+    font-family: sans-serif;
+    background: #f4f4f4;
+}
+header {
+    width: 100%;
+    height: 35vh;
+    text-align: center;
+    
+}
+h1 {
+    padding: 50px;
+    font-size: 3rem;
+    text-transform: capitalize;
+    text-shadow: 0 0 3px #333;
+}
+p {
+    text-transform: capitalize;
+    font-size: 1.2rem;
+    text-shadow: 0 0 3px #333;
+    letter-spacing: .3rem;
+}
+section {
+    background: #fff;
+    width: 90%;
+    margin: 0 auto;
+    box-shadow: 0 0 20px #333;
+}
+img {
+    margin: 5px;
+ 
+}
+footer {
+    text-align: center; 
+    font-size: 1.2rem;
+    text-shadow: 0 0 3px #333;
+    margin: 30px;
+}
